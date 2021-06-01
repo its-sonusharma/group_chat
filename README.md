@@ -1,4 +1,4 @@
-# chitti
+# Ek Chithi a group Chatting App
 
 A new Flutter application.
 
